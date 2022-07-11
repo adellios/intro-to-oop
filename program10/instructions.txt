@@ -1,0 +1,8 @@
+This directory is for your submission of Programming Assignment #10 (Disk Usage)
+
+You should be uploading two files within:
+
+(1) Your completed implementation, diskUsage.py
+
+(2) A file named readme.txt as described on the course website
+    about programming assignments.

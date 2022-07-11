@@ -1,0 +1,12 @@
+This directory is for your submission of Programming Assignment #9 (Shakespearl)
+
+Please note that if working as a pair, only ONE student should submit
+the assignment (but both partners should be appropriately credited in
+the readme file)
+
+You should be uploading two files within:
+
+(1) Your completed implementation, <tt>generator.py</tt>
+
+(2) A file named readme.txt as described on the course website
+    about programming assignments.
