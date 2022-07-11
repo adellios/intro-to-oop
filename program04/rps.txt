@@ -1,0 +1,4 @@
+1. Alec Dellios
+2. 5 hours
+3. None
+4. I devised a set of equalities that added a point to the counter belonging to the respective winner depending on their input of R, P, or S. Upon completion of the loop, the counter returns the amount of wins for each player.

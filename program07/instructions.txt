@@ -1,0 +1,14 @@
+This directory is for your submission of Programming Assignment #7 (Language Helper)
+
+Please note that if working as a pair, only ONE student should submit
+the assignment (but both partners should be appropriately credited in
+the readme file)
+
+You should be uploading three files within:
+
+(1) A file language_tools.py that defines your LanguageHelper class
+
+(2) A file language_tests.py that is your own enriched set of unit tests
+
+(3) A file named readme.txt as described on the course website
+    about programming assignments.

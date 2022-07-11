@@ -1,0 +1,4 @@
+1. Alec Dellios
+2. 4 hours
+3. None
+4. I used an extensive for loop to evaluate every integer in the input to multiply each distance by the specified number of hours to produce the distance traveled.

@@ -1,0 +1,18 @@
+This directory is for your submission of Programming Assignment #4 (Programming Contest)
+
+You should be uploading several files within:
+
+(1) A file named readme.txt as described on the course website
+    about programming assignments.
+
+(2) gnome.py  your source code solving Gnome Sequencing
+
+(3) dup.py    your source code solving Duplicate Removal
+
+(4) rps.py    your source code solving Rock, Paper, Scissors
+
+(5) speed.py  your source code solving Speed Limit
+
+
+If you choose do the extra credit challenge, submit say.py as well.
+

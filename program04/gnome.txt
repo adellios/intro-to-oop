@@ -1,0 +1,5 @@
+1. Alec Dellios
+2. 3 hours
+3. none
+4. I used an alternative method for harnessing the multi-line user input and converting the data into a useful list of integers which could be compared to each other in order to determine whether or not they were grouped in order.
+5. 

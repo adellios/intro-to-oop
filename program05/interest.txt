@@ -1,0 +1,4 @@
+1. Alec Dellios
+2. 10 hours
+3. none
+4. I wrote working code for the program before defining the functions and i found the transition to user-defined functions to be the most challenging aspect of the program, because different rules apply when placing code within these functions versus outside.

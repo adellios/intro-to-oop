@@ -1,0 +1,4 @@
+1. Alec Dellios
+2. 6 hours
+3. None
+4. I used slicing indexes to compare each string to the following string, and remove that string from the list if it was a duplicate. 

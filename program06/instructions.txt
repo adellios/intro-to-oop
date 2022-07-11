@@ -1,0 +1,8 @@
+This directory is for your submission of Programming Assignment #6 (Ball)
+
+You should be uploading two files within:
+
+(1) A file Ball.py containing your source code
+
+(2) A file named readme.txt as described on the course website
+    about programming assignments.
